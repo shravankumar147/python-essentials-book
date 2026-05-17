@@ -1,4 +1,4 @@
-# Python Essentials with Hands-On Projects
+# Python Essentials with Hands-On Projects {.unnumbered}
 
 *A Top-Down Approach for Programming Aspirants*
 

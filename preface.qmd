@@ -1,3 +1,4 @@
+# Preface {.unnumbered}
 # From Me to Every Programming Aspirant {.unnumbered}
 
 I have mentored many students over the years, and I noticed one common struggle almost everywhere:

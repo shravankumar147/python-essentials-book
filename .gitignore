@@ -226,4 +226,13 @@ __marimo__/
 /.quarto/
 
 **/*.quarto_ipynb
+# Quarto
+/_book/
+/.quarto/
+
+# Python
+.venv/
+__pycache__/
+
+# Mac
 .DS_Store

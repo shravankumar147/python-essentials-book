@@ -6,10 +6,12 @@ book:
   subtitle: "A Top-Down Approach for Programming Aspirants"
   author: "Shravan Parunandula"
 
-  chapters:
-    - index.qmd
-    - preface.qmd
+  page-navigation: true
+  search: true
 
+  chapters:
+    - preface.qmd
+    - index.qmd
 
     # =========================
     # PART I
@@ -59,15 +61,13 @@ format:
   html:
     theme: cosmo
     toc: true
+    toc-depth: 3
     number-sections: true
     code-copy: true
     code-overflow: wrap
-
-  pdf:
-    documentclass: scrreprt
+    smooth-scroll: true
 
 execute:
   freeze: auto
 
 editor: visual
-
