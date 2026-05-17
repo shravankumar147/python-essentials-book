@@ -1,73 +1,40 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Python Essentials with Hands-On Projects"
   subtitle: "A Top-Down Approach for Programming Aspirants"
-  author: "Shravan Parunandula"
+  author: "Shravan Kumar"
 
-  page-navigation: true
-  search: true
+  site-url: "https://shravankumar147.github.io/python-essentials-book/"
+  repo-url: "https://github.com/shravankumar147/python-essentials-book"
+
+  repo-actions:
+    - edit
+    - issue
 
   chapters:
-    - preface.qmd
     - index.qmd
+    - preface.qmd
+    - chapters/chapter1.qmd
 
-    # =========================
-    # PART I
-    # =========================
-    - part: "Part I — Getting Comfortable with Programming"
-      chapters:
-        - parts/part-1-getting-comfortable/chapters/chapter1-welcome.qmd
-        - parts/part-1-getting-comfortable/chapters/chapter2-input-output.qmd
-        - parts/part-1-getting-comfortable/chapters/chapter3-variables.qmd
-        - parts/part-1-getting-comfortable/chapters/chapter4-conditions.qmd
-        - parts/part-1-getting-comfortable/chapters/chapter5-loops.qmd
-
-    # =========================
-    # PART II
-    # =========================
-    - part: "Part II — Thinking Like a Programmer"
-      chapters:
-        - parts/part-2-thinking-like-a-programmer/chapters/chapter6-functions.qmd
-        - parts/part-2-thinking-like-a-programmer/chapters/chapter7-lists.qmd
-        - parts/part-2-thinking-like-a-programmer/chapters/chapter8-strings.qmd
-        - parts/part-2-thinking-like-a-programmer/chapters/chapter9-dictionaries.qmd
-        - parts/part-2-thinking-like-a-programmer/chapters/chapter10-problem-solving.qmd
-
-    # =========================
-    # PART III
-    # =========================
-    - part: "Part III — Building Real Projects"
-      chapters:
-        - parts/part-3-building-real-projects/chapters/chapter11-quiz-game.qmd
-        - parts/part-3-building-real-projects/chapters/chapter12-expense-tracker.qmd
-        - parts/part-3-building-real-projects/chapters/chapter13-student-record-system.qmd
-        - parts/part-3-building-real-projects/chapters/chapter14-mini-automation.qmd
-        - parts/part-3-building-real-projects/chapters/chapter15-final-project.qmd
-
-    # =========================
-    # PART IV
-    # =========================
-    - part: "Part IV — Beyond the Basics"
-      chapters:
-        - parts/part-4-beyond-the-basics/chapters/chapter16-files.qmd
-        - parts/part-4-beyond-the-basics/chapters/chapter17-error-handling.qmd
-        - parts/part-4-beyond-the-basics/chapters/chapter18-modules.qmd
-        - parts/part-4-beyond-the-basics/chapters/chapter19-apis.qmd
-        - parts/part-4-beyond-the-basics/chapters/chapter20-learning-roadmap.qmd
+  sidebar:
+    style: floating
+    search: true
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     toc: true
     toc-depth: 3
     number-sections: true
     code-copy: true
     code-overflow: wrap
     smooth-scroll: true
+    css: /assets/styles.css
 
 execute:
   freeze: auto
-
-editor: visual

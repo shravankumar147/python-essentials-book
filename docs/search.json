@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Python Essentials with Hands-On Projects",
+    "section": "",
+    "text": "Python Essentials with Hands-On Projects\nA Top-Down Approach for Programming Aspirants\nThis book is a practical guide to learning Python by building real things first—then uncovering the ideas behind the code.",
+    "crumbs": [
+      "Python Essentials with Hands-On Projects"
+    ]
+  },
+  {
+    "objectID": "index.html#what-youll-learn",
+    "href": "index.html#what-youll-learn",
+    "title": "Python Essentials with Hands-On Projects",
+    "section": "What you’ll learn",
+    "text": "What you’ll learn\n\nHow to write working Python programs (not just memorize syntax)\nHow programmers think while solving problems\nHow to build confidence through small, meaningful projects",
+    "crumbs": [
+      "Python Essentials with Hands-On Projects"
+    ]
+  },
+  {
+    "objectID": "index.html#how-this-book-is-organized",
+    "href": "index.html#how-this-book-is-organized",
+    "title": "Python Essentials with Hands-On Projects",
+    "section": "How this book is organized",
+    "text": "How this book is organized\n\nPart I — Getting Comfortable with Programming: foundations like input/output, variables, conditions, and loops.\nPart II — Thinking Like a Programmer: functions, lists, strings, dictionaries, and problem-solving strategies.\nPart III — Building Real Projects: quizzes, trackers, systems, and automation.\nPart IV — Beyond the Basics: files, errors, modules, APIs, and a learning roadmap.",
+    "crumbs": [
+      "Python Essentials with Hands-On Projects"
+    ]
+  },
+  {
+    "objectID": "preface.html",
+    "href": "preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "From Me to Every Programming Aspirant\nI have mentored many students over the years, and I noticed one common struggle almost everywhere:\nMost students do not fail because programming is difficult. They struggle because programming is often taught in a way that feels disconnected from real understanding.\nMany beginners are introduced to:\n\nsyntax,\ndefinitions,\ntheory,\nand complex concepts\n\nbefore they ever experience the joy of building something meaningful.\nThat is why I decided to create this handbook.\nThis is not just another Python notes collection. This handbook is designed as a practical learning companion for every beginner who wants to truly understand programming fundamentals.\nI strongly believe students learn programming better when they:\n\nbuild first,\nexplore next,\nand understand concepts naturally while solving problems.\n\nSo instead of starting with heavy theory, this handbook follows a Top-Down Approach.\nWe begin with:\n\nsmall real-world projects,\nsimple applications,\nhands-on coding,\nand problem-solving exercises.\n\nThen, step by step, we uncover:\n\nhow the code works,\nwhy each concept matters,\nand how programmers think while building solutions.\n\nMy goal through this handbook is simple:\nI want every student to:\n\novercome the fear of coding,\nthink logically,\nbuild confidence,\nlearn independently,\nand enjoy the process of programming.\n\nInside this handbook, you will find:\n\nPython essentials explained simply,\nbeginner-friendly examples,\npractical mini-projects,\ncoding exercises,\ndebugging mindset,\nand real learning through implementation.\n\nProgramming is not about memorizing syntax.\nProgramming is about:\n\nthinking clearly,\nsolving problems,\nexperimenting,\nmaking mistakes,\nfixing them,\nand growing through practice.\n\nEvery expert programmer once started as a beginner.\nIf you are someone who feels:\n\n“Coding is hard,”\n“I cannot understand programming,”\nor “Maybe programming is not for me,”\n\nthen this handbook is especially for you.\nTake one step at a time. Build small projects. Stay curious. Keep practicing.\nBecause confidence in programming does not come from watching tutorials.\nIt comes from:\n\nBuilding. Breaking. Fixing. Repeating.\n\nI hope this handbook helps you begin your journey with clarity, confidence, and curiosity.\n— Shravankumar Parunandula",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1.html",
+    "href": "chapters/chapter1.html",
+    "title": "1  Chapter 1 — Introduction to Python",
+    "section": "",
+    "text": "Chapter 1 — Introduction to Python",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1 — Introduction to Python</span>"
+    ]
+  }
+]
