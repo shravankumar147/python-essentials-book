@@ -223,13 +223,17 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-/.quarto/
 
 **/*.quarto_ipynb
 # Quarto
 /_book/
 /.quarto/
 /_site/
+.quarto/
+*.log
+*.aux
+*.toc
+*.out
 
 # Python
 .venv/

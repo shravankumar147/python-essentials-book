@@ -44,7 +44,17 @@
     "href": "chapters/chapter1.html",
     "title": "1  Chapter 1 — Introduction to Python",
     "section": "",
-    "text": "Chapter 1 — Introduction to Python",
+    "text": "Chapter 1 — Introduction to Python\nIn this chapter, we will introduce you to the Python programming language. We will cover the basics of Python, including its history, features, and why it is a popular choice for programmers. By the end of this chapter, you will have a good understanding of what Python is and why it is a great language to learn.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1 — Introduction to Python</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1.html#what-is-python",
+    "href": "chapters/chapter1.html#what-is-python",
+    "title": "1  Chapter 1 — Introduction to Python",
+    "section": "1.1 What is Python?",
+    "text": "1.1 What is Python?\nPython is a high-level, interpreted programming language that was created by Guido van Rossum and first released in 1991. It is known for its simplicity and readability, making it an excellent choice for beginners. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Chapter 1 — Introduction to Python</span>"
     ]

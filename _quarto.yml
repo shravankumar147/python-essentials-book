@@ -15,8 +15,8 @@ book:
     - issue
 
   chapters:
-    - index.qmd
     - preface.qmd
+    - index.qmd
     - chapters/chapter1.qmd
 
   sidebar:
