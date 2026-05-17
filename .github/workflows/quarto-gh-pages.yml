@@ -15,9 +15,9 @@ jobs:
           submodules: true
 
       - name: Setup Quarto CLI
-        uses: quarto-dev/quarto-cli-action@v2
-        with:
-          install: true
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y quarto
 
       - name: Render Quarto book
         run: |
