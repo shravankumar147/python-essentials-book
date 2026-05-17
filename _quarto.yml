@@ -7,8 +7,8 @@ book:
   author: "Shravan Parunandula"
 
   chapters:
-    - preface.qmd
     - index.qmd
+    - preface.qmd
 
 
     # =========================

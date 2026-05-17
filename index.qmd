@@ -1,5 +1,18 @@
-# Preface {.unnumbered}
+# Python Essentials with Hands-On Projects
 
-This is a Quarto book.
+*A Top-Down Approach for Programming Aspirants*
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This book is a practical guide to learning Python by building real things first—then uncovering the ideas behind the code.
+
+## What you’ll learn
+
+- How to write working Python programs (not just memorize syntax)
+- How programmers think while solving problems
+- How to build confidence through small, meaningful projects
+
+## How this book is organized
+
+1.  **Part I — Getting Comfortable with Programming**: foundations like input/output, variables, conditions, and loops.
+2.  **Part II — Thinking Like a Programmer**: functions, lists, strings, dictionaries, and problem-solving strategies.
+3.  **Part III — Building Real Projects**: quizzes, trackers, systems, and automation.
+4.  **Part IV — Beyond the Basics**: files, errors, modules, APIs, and a learning roadmap.
